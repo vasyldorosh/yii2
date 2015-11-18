@@ -23,7 +23,11 @@ use Yii;
  *
  * ~~~
  * public function run($id, $type = 'book') { ... }
- * ~~~
+ * ~~
+ * 
+ * 
+ * 
+ * ~
  *
  * And the parameters provided for the action are: `['id' => 1]`.
  * Then the `run()` method will be invoked as `run(1)` automatically.
